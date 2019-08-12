@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FSPagerView (0.8.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - FSPagerView (from `https://github.com/gongdeyin/FSPagerView.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+
+EXTERNAL SOURCES:
+  FSPagerView:
+    :git: https://github.com/gongdeyin/FSPagerView.git
+
+CHECKOUT OPTIONS:
+  FSPagerView:
+    :commit: e59600e62b3d3dba57ee4682c79ada839db6e11e
+    :git: https://github.com/gongdeyin/FSPagerView.git
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FSPagerView: 335f0c1a9a8e23329802b64a5d90c854022e545e
+
+PODFILE CHECKSUM: d74d8e604062f4c8964d1d885b37a4f76442d614
+
+COCOAPODS: 1.7.5

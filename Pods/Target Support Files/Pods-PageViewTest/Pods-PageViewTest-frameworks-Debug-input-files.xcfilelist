@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PageViewTest/Pods-PageViewTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/FSPagerView/FSPagerView.framework
